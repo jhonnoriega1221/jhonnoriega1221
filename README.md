@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/jhonnoriega1221/" rel="correo">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-## 💻En que estoy trabajando
+## 💻¿En qué estoy trabajando?
 * Mejorando aplicación web para ver el clima: https://protoweather.vercel.app/
 * Chat encriptado E2E: proximamente...
 
