@@ -3,7 +3,7 @@
 ## 🙋🏻‍♂️Sobre mí
 ### ¡Hey! Soy Jhon Noriega 👨🏻‍💻
 * Apasionado desarrollador web frontend
-* Estudiante de ingeniería de sistemas
+* Ingeniero de sistemas
 
 ## 💬Puedes contactarme por...
 <a href="mailto:jhonlex17@gmail.com" rel="correo">![Foo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -11,7 +11,7 @@
 
 [//]: < ## 💻¿En qué estoy trabajando? > 
 [//]: < * Mejorando aplicación web para ver el clima: https://protoweather.vercel.app/ > 
-[//]: <* Chat encriptado E2E: proximamente...> 
+[//]: <* Aplicación web para mostrar y comparar precios de tiendas...> 
 
 ## 📖Algunas herramientas/tecnologías que he utilizado y aprendido
 
