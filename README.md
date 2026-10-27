@@ -1,13 +1,11 @@
-## 🙋🏻‍♂️Sobre mí
 ### Jhon Noriega
 * Frontend Engineer
-* Ingeniero de sistemas
 
 ## 💬Puedes contactarme por...
 <a href="mailto:jhonlex17@gmail.com" rel="correo">![Foo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/jhonnoriega1221/" rel="correo">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-## 📖Algunas herramientas/tecnologías que he utilizado y aprendido
+## 📖Tech Stack
 
 #### Frontend:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
