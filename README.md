@@ -1,17 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5800FF&height=200&section=header&text=👋Hola%20mundo&fontAlignY=35&fontSize=70&animation=fadeIn&fontColor=FFFFFF&desc=-Bienvenid@%20a%20mi%20✨Perfil✨-&descAlignY=55)
-<br>
 ## 🙋🏻‍♂️Sobre mí
-### ¡Hey! Soy Jhon Noriega 👨🏻‍💻
-* Apasionado desarrollador web frontend
+### Jhon Noriega
+* Frontend Engineer
 * Ingeniero de sistemas
 
 ## 💬Puedes contactarme por...
 <a href="mailto:jhonlex17@gmail.com" rel="correo">![Foo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/jhonnoriega1221/" rel="correo">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-[//]: < ## 💻¿En qué estoy trabajando? > 
-[//]: < * Mejorando aplicación web para ver el clima: https://protoweather.vercel.app/ > 
-[//]: <* Aplicación web para mostrar y comparar precios de tiendas...> 
 
 ## 📖Algunas herramientas/tecnologías que he utilizado y aprendido
 
